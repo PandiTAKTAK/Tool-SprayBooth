@@ -1,0 +1,3 @@
+[submodule "modules/lasercut"]
+	path = modules/lasercut
+	url = https://github.com/AlexCPU/openscad-lasercut.git
