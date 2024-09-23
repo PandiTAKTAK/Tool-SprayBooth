@@ -1,3 +1,5 @@
+// To generate ->  python ./modules/lasercut/convert-2d.py --keep --library ./modules/lasercut/lasercut.scad SprayBooth.scad SprayBooth-Processed.dxf
+
 include <modules/lasercut/lasercut.scad>;
 
 /* [Booth Configuration] */
